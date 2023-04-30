@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 82.302 s <<< FAILURE! - in TestSuite
+TestCases.LoginTest.test4  Time elapsed: 0.634 s  <<< FAILURE!
+com.codoid.products.exception.FilloException: data table is not found
+	at TestCases.LoginTest.test4(LoginTest.java:40)
+
